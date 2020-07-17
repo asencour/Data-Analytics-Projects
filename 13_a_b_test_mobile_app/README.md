@@ -40,4 +40,4 @@
 - *stats*
 - *matplotlib*
 - *seaborn*
-- *plotly*
+- *plotly* 
